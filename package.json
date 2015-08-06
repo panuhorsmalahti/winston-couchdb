@@ -11,10 +11,10 @@
   "license": "MIT",
   "dependencies": {
     "cradle": "0.6.x",
-    "cycle": "1.0.x"
+    "cycle": "1.0.x",
+    "winston": "^1.0.1"
   },
   "devDependencies": {
-    "winston": "0.6.x",
     "vows": "0.6.x"
   },
   "main": "./lib/winston-couchdb",
